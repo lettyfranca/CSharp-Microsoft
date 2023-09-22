@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpParte1\\Projeto1\\Projeto1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpParte1\\Projeto1\\Projeto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpParte1\\Projeto1\\Projeto1.csproj",
+        "projectName": "Projeto1",
+        "projectPath": "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpParte1\\Projeto1\\Projeto1.csproj",
         "packagesPath": "C:\\Users\\le-fr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\le-fr\\Desktop\\C#-Microsoft\\CsharpParte1\\Projeto1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\le-fr\\AppData\\Roaming\\NuGet\\NuGet.Config",
