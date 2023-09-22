@@ -1,0 +1,14 @@
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\bin\Debug\net7.0\Projeto.exe
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\bin\Debug\net7.0\Projeto.deps.json
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\bin\Debug\net7.0\Projeto.runtimeconfig.json
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\bin\Debug\net7.0\Projeto.dll
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\bin\Debug\net7.0\Projeto.pdb
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfo.cs
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.dll
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\refint\Projeto.dll
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.pdb
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\Projeto.genruntimeconfig.cache
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpCondicional2\Projeto\obj\Debug\net7.0\ref\Projeto.dll
