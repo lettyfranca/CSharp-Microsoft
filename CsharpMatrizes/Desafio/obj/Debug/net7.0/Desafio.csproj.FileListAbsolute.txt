@@ -1,0 +1,14 @@
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfo.cs
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\bin\Debug\net7.0\Desafio.exe
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\bin\Debug\net7.0\Desafio.deps.json
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\bin\Debug\net7.0\Desafio.runtimeconfig.json
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\bin\Debug\net7.0\Desafio.dll
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\bin\Debug\net7.0\Desafio.pdb
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.dll
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\refint\Desafio.dll
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.pdb
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\Desafio.genruntimeconfig.cache
+C:\Users\le-fr\Desktop\C#-Microsoft\CsharpMatrizes\Desafio\obj\Debug\net7.0\ref\Desafio.dll
